@@ -1,5 +1,8 @@
 ## Confluent Kafka questions to practice
 
+- https://www.danielsobrado.com/blog/guide-ccdak-concluent-kafka-developer-certification/  # 25.01.26 - 경준 추가
+
+
 This guide­ offers insights into Kafka's different parts and functions, allowing you to practice­ questions, helping your preparation for the CCDAK exam. 90 minutes - 60 questions - Around 75% pass rate required. (My own guess)
 
 Have in mind that I started by asking AI the questions above while practicing sports (running etc...), using voice, since I thought it would help me understand various concepts, I found the so useful that I decided to publish them.
